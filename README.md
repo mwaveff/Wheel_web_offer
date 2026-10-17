@@ -1,82 +1,64 @@
 <div align="center">
 
-# 🌿 Магній Гліцинат — Шлях Мольфара
+# 🌿 Magnesium Glycinate — The Molfar's Way
 
-**Гейміфікована посадкова сторінка + рекламні креативи для товару «Лавки Мольфара»**
+**Gamified landing page + ad creatives for a product by "Lavka Molfara"**
 
-[🔗 Відкрити демо](https://mwaveff.github.io/Wheel_web_offer/) · [Креативи](#-рекламні-креативи) · [Механіки](#-ігрові-механіки) · [Як запустити](#-як-запустити)
+[🔗 Live Demo](https://mwaveff.github.io/Wheel_web_offer/) · [Creatives](#-ad-creatives) · [Mechanics](#-game-mechanics) · [Getting Started](#-getting-started)
 
 <img src="creative-1-quiz.png" width="32%"> <img src="creative-2-wheel-offer.png" width="32%"> <img src="creative-3-path.png" width="32%">
 
 </div>
 
-> **Тестове завдання.** Мета: створити посадкову сторінку з максимальною конверсією і 3 рекламні креативи у стилі сайту [lavka-molfara.com.ua](https://lavka-molfara.com.ua/mahnii-hlitsynat-khelat-bishlitsynat-120-kapsul-1084).
-> Це не офіційний сайт магазину. Товар, ціни, фото та тексти взято з публічної сторінки товару.
+> **Test Project.** Objective: create a high-converting landing page and 3 ad creatives in the visual style of [lavka-molfara.com.ua](https://lavka-molfara.com.ua/mahnii-hlitsynat-khelat-bishlitsynat-120-kapsul-1084).  
+> This is not an official store website. Product information, pricing, imagery, and copy were sourced from the public product page.
 
 ---
 
-## 🎮 Ігрові механіки
+## 🎮 Game Mechanics
 
-| Механіка | Як працює | Навіщо |
+| Mechanic | How It Works | Purpose |
 |---|---|---|
-| ⚔️ **Квести та монети** | 4 квести дають монети Мольфара. У шапці видно рівні: Учень → Травник → Знахар → Мольфар | Ефект незавершеного: хочеться заповнити шкалу до кінця |
-| 🔮 **Квіз «Який твій магнієвий профіль?»** | 6 питань → 1 з 4 профілів (Напружена струна, Нічний вартовий, Скутий воїн, Згаслий вогонь), розподіл у %, пояснення і рекомендований формат | Низький поріг входу і персональна рекомендація замість реклами |
-| 🎡 **Колесо Мольфара** | Відкривається тільки після тесту. Кожен сектор виграшний, приз сам додається до замовлення | Нагорода за залученість і відчуття «заробленого» бонусу |
-| 🍄 **Сховані гриби** | 3 мухомори сховані на сторінці, кожен дає +10 монет | Людина гортає й читає всю сторінку |
-| 🗝️ **Скриня Мольфара** | 100 монет відкривають −5% до замовлення | Фінальна мета, яку шкода втратити |
-| 🧺 **Вівтар подарунків** | Порожні слоти для подарунків і шкала вигоди, яка росте | Підштовхує до форматів 120 і 180 капсул (вищий середній чек) |
-| 🗺️ **Карта курсу** | «Печатки» 7 / 14 / 30+ днів запалюються по кліку | Пояснює, чому брати курс від 30 днів |
-| ⏳ **Таймер і липка кнопка** | Таймер акції до 23:59 і кнопка внизу з поточною ціною та подарунками | Терміновість і завжди доступна дія |
+| ⚔️ **Quests & Coins** | 4 quests reward Molfar Coins. The header tracks progression ranks: Apprentice → Herbalist → Healer → Molfar | Leverages the Zeigarnik effect: motivates users to complete the progress bar |
+| 🔮 **"What's Your Magnesium Profile?" Quiz** | 6 questions → 1 of 4 profiles (Tense String, Night Watchman, Constrained Warrior, Faded Fire), percentage breakdown, detailed breakdown, and recommended package | Low barrier to entry and personalized recommendation instead of direct selling |
+| 🎡 **Molfar's Wheel** | Unlocks only after completing the quiz. Every spin wins; the reward is automatically added to the order | Rewarding engagement and giving the feeling of an "earned" discount |
+| 🍄 **Hidden Mushrooms** | 3 fly agarics hidden throughout the page, each granting +10 coins | Encourages users to scroll through and read the entire page |
+| 🗝️ **Molfar's Chest** | 100 coins unlock an extra −5% discount on the order | High-value final milestone that users don't want to leave behind |
+| 🧺 **Gift Altar** | Empty gift slots and an increasing savings progress bar | Upsells users toward 120 and 180 capsule packs (higher AOV) |
+| 🗺️ **Course Map** | 7 / 14 / 30+ day milestone "seals" illuminate upon click | Illustrates why taking a 30+ day course yields optimal results |
+| ⏳ **Timer & Sticky CTA** | Countdown offer timer ending at 23:59 and a persistent sticky button displaying the current price and active rewards | Instills urgency and keeps the call-to-action readily accessible |
 
-### Як це підвищує конверсію
+### How This Boosts Conversion
 
-Квіз — це низький поріг входу: людина спершу відповідає на питання про себе, а потім отримує персональну рекомендацію. Колесо, монети й Скриня додають відчуття, що знижку **заробив сам**, тому її шкода втратити. Кожен крок трохи підштовхує до наступного, і людина доходить до форми вже «вкладеною». Слоти подарунків піднімають середній чек, а всі нагороди зібрані в підсумку замовлення, тому піти зі сторінки означає їх втратити.
+The quiz lowers friction: visitors start by answering questions about their routine, leading into a personalized solution rather than an aggressive pitch. The wheel, coins, and reward chest trigger a strong sense of **ownership** over their discount, making them reluctant to abandon the cart. Each micro-step nudges them forward, ensuring they arrive at the checkout form already invested in the process. The gift altar raises Average Order Value (AOV), and because all earned perks are consolidated in the final order summary, exiting means forfeiting their progress.
 
 ---
 
-## 🖼 Рекламні креативи
+## 🖼 Ad Creatives
 
-Кожен креатив веде на одну з механік сторінки, тому реклама і лендінг виглядають як одна кампанія.
+Each creative directly anchors into one of the landing page mechanics, keeping ad messaging and landing experience seamlessly aligned.
 
-| # | Файл | Ідея |
+| # | File | Concept |
 |---|---|---|
-| 1 | `creative-1-quiz.png` | Хук-питання з квізу і 4 профілі |
-| 2 | `creative-2-wheel-offer.png` | −40% + подарунки, Колесо Мольфара |
-| 3 | `creative-3-path.png` | Шлях 7 / 14 / 30 днів і монети |
-| 🎬 | `creative-video-9x16.mp4` | 14 с для Reels / Stories: питання → профіль → колесо → ціна |
+| 1 | `creative-1-quiz.png` | Quiz hook question and 4 diagnostic profiles |
+| 2 | `creative-2-wheel-offer.png` | −40% + gifts, Molfar's Wheel promotion |
+| 3 | `creative-3-path.png` | 7 / 14 / 30-day journey and coin rewards |
+| 🎬 | `creative-video-9x16.mp4` | 14s clip for Reels / Stories: question → profile → wheel → pricing |
 
-Формат: 1080×1350 (4:5) для стрічки, 1080×1920 (9:16) для відео.
+Format: 1080×1350 (4:5) for feed posts, 1080×1920 (9:16) for short-form video.
 
 ---
 
-## 🛠 Технології
+## 🛠 Tech Stack
 
-- Один HTML-файл без залежностей: чистий HTML, CSS і JavaScript
-- Шрифти (Unbounded, Inter) і зображення вбудовані в base64, тож сторінка працює офлайн
-- Адаптивна верстка (десктоп і мобільний), підтримка `prefers-reduced-motion`
-- Креативи та відео зібрані з HTML/CSS: Playwright (рендер) + FFmpeg (відео)
+- Single zero-dependency HTML file: vanilla HTML5, CSS3, and JavaScript (ES6+)
+- Typography (Unbounded, Inter) and images are base64-encoded for fully offline standalone support
+- Fully responsive layout (desktop and mobile) with native `prefers-reduced-motion` compliance
+- Creatives and video rendered directly from HTML/CSS via Playwright (rendering) + FFmpeg (video compilation)
 
-## 🚀 Як запустити
+## 🚀 Getting Started
 
 ```bash
-git clone https://github.com/mwaveff/Wheel_web_offer.git
+git clone [https://github.com/mwaveff/Wheel_web_offer.git](https://github.com/mwaveff/Wheel_web_offer.git)
 cd Wheel_web_offer
-# відкрийте index.html у браузері
-```
-
-Або відкрийте [демо на GitHub Pages](https://mwaveff.github.io/Wheel_web_offer/).
-
-## ⚠️ Обмеження демо
-
-- Форма замовлення показує вікно успіху, але не надсилає дані: потрібна інтеграція з CRM або Telegram-ботом
-- Посилання на Telegram-чат — заглушка
-- Розмір знижок і склад призів можна налаштувати в коді (`PACKS`, `GIFTS`, `SEG`)
-- Результат квізу має ознайомчий характер і не є медичною рекомендацією
-
----
-
-<div align="center">
-
-Автор: **Nazar Vavryk** · [@mwaveff](https://github.com/mwaveff)
-
-</div>
+# open index.html in your browser
